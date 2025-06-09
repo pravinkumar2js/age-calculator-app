@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime,date
 from dateutil.relativedelta import relativedelta
 
-st.title("📅 Tamil Advanced Age Calculator")
+st.title("📅 Michel Advanced Age Calculator")
 
 min_date = date(1900,1,1)
 today = date.today()
